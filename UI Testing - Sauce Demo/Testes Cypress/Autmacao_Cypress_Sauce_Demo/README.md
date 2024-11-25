@@ -15,11 +15,7 @@ Hardware
 
 * Mínimo de 2 CPUs para rodar o Cypress
 * 1 CPU adicional se a gravação de vídeo estiver ativada
-* 1 CPU adicional por processo executado fora do Cypress, como:
-    - Servidor de aplicativos (frontend)
-    - Servidor de aplicativos (back-end)
-* Banco de dados de aplicativos
-* Qualquer infraestrutura adicional (Redis, Kafka, etc.)
+
 
 Memória
 ---
