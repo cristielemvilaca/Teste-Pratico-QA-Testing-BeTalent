@@ -4,22 +4,6 @@ Projeto de automação web com Cypress do site Sauce Demo, nesta automação foi
 
 # Pré requisitos para utilizar o projeto
 
-SO
----
-* macOS 10.9 e superior (Intel ou Apple Silicon 64-bit (x64 ou arm64))
-* Linux Ubuntu 20.04 e superior, Fedora 21 e Debian 8 (x86_64 ou Arm 64 bits (x64 ou arm64))
-* Windows 10 e superior (apenas 64 bits)
-
-Hardware
----
-
-* Mínimo de 2 CPUs para rodar o Cypress
-* 1 CPU adicional se a gravação de vídeo estiver ativada
-
-
-Memória
----
-* Mínimo de 4 GB, 8 GB + para execuções de teste mais longos.
 
 NodeJS
 ---
